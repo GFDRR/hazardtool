@@ -19,7 +19,7 @@
   "dependencies": {
     "bootlint": "~0.11.0",
     "bootstrap": "3.3.7",
-    "jquery": "~3.3.1",
+    "jquery": "~3.5.0",
     "jshint": "~2.5.1",
     "leaflet": "~0.7.7",
     "less": "~1.7.5",
