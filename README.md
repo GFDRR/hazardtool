@@ -4,9 +4,15 @@ A natural hazard screening tool for disaster risk management project planning. T
 
 API instructions can be found here: https://github.com/GFDRR/thinkhazard/blob/master/API.md 
 
-
-
 [![Build Status](https://travis-ci.org/GFDRR/thinkhazard.svg?branch=master)](https://travis-ci.org/GFDRR/thinkhazard)
+
+## Schema
+
+Here is the schema of the development architecture based on Docker Compose:
+
+![Schema](doc/schema-dev.png)
+
+For production see: [Production schema](doc/schema-prod.png)
 
 ## Getting Started
 
